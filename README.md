@@ -1,5 +1,5 @@
 # website-blocker-firefox
-## this extension is still under development
+## THIS EXTENSION IS STILL UNDER DEVELOPMENT
  This is just a basic extension that makes you block a single site\
  #### How to upload it and use it in firefox
  1. Download this repository from the green button above or with a command "git clone https://github.com/IAM-GROOT1/website-blocker-firefox.git"
