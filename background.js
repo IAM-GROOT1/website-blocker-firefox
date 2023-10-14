@@ -1,4 +1,4 @@
-const blockedHosts = ["facebook.com"];  // replace "example.com" with the site you want to block
+const blockedHosts = ["example.com"];  // replace "example.com" with the site you want to block
 
 function blockRequest(requestDetails) {
   for (let host of blockedHosts) {
